@@ -4,6 +4,9 @@
 
 ### [Referential demo](https://react-redux.realworld.io/)
 
+
+[![Continuous Integration](https://github.com/omargallob/scala-play-realworld-example-app/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/omargallob/scala-play-realworld-example-app/actions/workflows/ci.yml)
+
 This codebase was created to demonstrate a fully fledged fullstack application built with **Scala & Play Framework** including CRUD operations, authentication, routing, pagination, and more.
 
 For more information on how to this works with other frontends/backends, head over to the [RealWorld](https://github.com/gothinkster/realworld) repo.
